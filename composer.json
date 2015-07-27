@@ -1,5 +1,5 @@
 {
-    "name": "bzikarsky/react-readbuffer",
+    "name": "zikarsky/react-readbuffer",
     "description": "Some utility functions for buffered reading with react/stream",
     "type": "library",
     "require": {
